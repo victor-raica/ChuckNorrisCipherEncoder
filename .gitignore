@@ -1,0 +1,35 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Chuck Norris Cipher Encoder/*
+!/Chuck Norris Cipher Encoder/task/
+/Chuck Norris Cipher Encoder/task/*
+!/Chuck Norris Cipher Encoder/task/src
+
+# Project exclude paths
+/Topics/Random/Choose a correct invocation/out/
+/Topics/Random/Choose a correct invocation/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
+/Topics/Random/Impossible to generate/out/
+/Topics/Random/Impossible to generate/out/production/classes/
+/Topics/Random/Pseudorandom sequences/out/
+/Topics/Random/Pseudorandom sequences/out/production/classes/
+/Topics/Random/The result of a method/out/
+/Topics/Random/The result of a method/out/production/classes/
+/Topics/Random/Theory/out/
+/Topics/Random/Theory/out/production/classes/
